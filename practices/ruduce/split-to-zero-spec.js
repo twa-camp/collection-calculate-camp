@@ -1,7 +1,5 @@
 'use strict';
 
-var split_to_zero = require('../../practices/ruduce/split_to_zero.js');
-
 describe('split_to_zero', function () {
 
   var collection_a = [0.8, 0.6, 0.4, 0.2, 0];
@@ -19,3 +17,4 @@ describe('split_to_zero', function () {
     expect(result).toEqual(collection_b);
   });
 });
+
