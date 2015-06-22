@@ -1,7 +1,5 @@
 'use strict';
 
-var get_union = require('../../practices/collectionOperator/get_union.js');
-
 describe('get_union', function () {
 
   var collection_a = [10, 27, 28, 19, 5];

@@ -1,7 +1,5 @@
 'use strict';
 
-var collect_all_even = require('../../practices/collectionOperator/collect_all_even.js');
-
 describe('collect_all_even', function () {
 
   var collection_a = [1, 2, 3, 4, 5];

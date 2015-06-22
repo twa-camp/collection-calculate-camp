@@ -1,7 +1,5 @@
 'use strict';
 
-var get_intersection = require('../../practices/collectionOperator/get_intersection.js');
-
 describe('get_intersection', function () {
 
   var collection_a = [10, 27, 28, 19, 5];

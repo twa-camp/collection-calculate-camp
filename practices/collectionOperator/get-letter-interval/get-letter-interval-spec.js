@@ -1,7 +1,5 @@
 'use strict';
 
-var get_letter_interval = require('../../practices/collectionOperator/get_letter_interval.js');
-
 describe('get_letter_interval', function () {
 
   var collection_a = ['a', 'b', 'c', 'd', 'e'];
