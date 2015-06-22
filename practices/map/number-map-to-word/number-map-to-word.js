@@ -1,6 +1,6 @@
 'use strict';
 
 var number_map_to_word = function(collection){
-  return ['a','b','c','d','e'];
+  //在这里写入代码
 };
 
