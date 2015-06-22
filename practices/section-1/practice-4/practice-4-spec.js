@@ -1,7 +1,5 @@
 'use strict';
 
-var collect_same_elements = require("../../practices/section_1/practice_4/practice.js");
-
 describe('practice-1-4', function() {
 
   var collection_a = [
