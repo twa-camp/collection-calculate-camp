@@ -1,7 +1,5 @@
 'use strict';
 
-var create_updated_collection = require("../../practices/section_3/practice_1/practice.js");
-
 describe('practice-3-1', function() {
 
   var collection_a = [
