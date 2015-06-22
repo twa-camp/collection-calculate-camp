@@ -1,7 +1,5 @@
 'use strict';
 
-var grouping_count = require("../../practices/filter/grouping_count.js");
-
 describe('grouping_count', function() {
 
   var collection = [1,1,1,1,2,3,1,3,4,2,3,1,3,4,2];
